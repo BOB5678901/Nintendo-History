@@ -1,5 +1,6 @@
 h1 {
 color: #FDF5E6;
+text-align: center;
 }
 
 header {
@@ -56,6 +57,7 @@ background-color:#E60012;
 
 footer h2 {
 color:#FDF5E6;
+text-align:center;
 }
 
 iframe {

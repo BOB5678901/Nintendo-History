@@ -9,11 +9,12 @@ background-color: #E60012;
 main img {
 position:relative; 
 left:500px;  
-top:-150px; 
+top:-100px; 
 }
 
 p {
-color:#FDF5E6;    
+color:#FDF5E6;   
+font-size:xx-large; 
 }
 
 header img {
@@ -49,8 +50,14 @@ left:10px;
 bottom:130px;
 }
 
-footer
-
 footer {
 background-color:#E60012;    
+}
+
+footer h2 {
+color:#FDF5E6;
+}
+
+iframe {
+background-color: #E60012;    
 }

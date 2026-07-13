@@ -14,7 +14,7 @@ top:-150px;
 
 p {
 color:#FDF5E6;    
-width:300px;
+width:1000px;
 font-size: xx-large;
 }
 
@@ -22,7 +22,7 @@ header img {
 position: relative;    
 width:250px; 
 left:500px;
-top:-500px;
+top:-3000px;
 }
 
 header img:hover {
@@ -52,7 +52,13 @@ left:10px;
 bottom:130px;
 }
 
-footer
+h2 {
+color:red;
+}  
+
+a href {
+background-color:red; 
+}
 
 footer {
 background-color:#E60012;    

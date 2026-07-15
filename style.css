@@ -8,7 +8,7 @@ background-color: #E60012;
 
 main img {
 position:relative; 
-left:500px;  
+left:1000px;  
 top:-150px; 
 }
 
@@ -22,7 +22,7 @@ header img {
 position: relative;    
 width:250px; 
 left:500px;
-top:-3000px;
+top:-2000px;
 }
 
 header img:hover {
@@ -53,7 +53,7 @@ bottom:130px;
 }
 
 h2 {
-color:red;
+color:#FDF5E6;
 }  
 
 a href {

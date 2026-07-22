@@ -9,7 +9,9 @@ background-color: #E60012;
 main img {
 position:relative; 
 left:1000px;  
-top:-150px; 
+top:-150px;
+height:600px;
+width:400px;
 }
 
 p {
@@ -22,7 +24,7 @@ header img {
 position: relative;    
 width:250px; 
 left:500px;
-top:-500px;
+top:-100px;
 }
 
 header img:hover {

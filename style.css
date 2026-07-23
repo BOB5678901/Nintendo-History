@@ -51,7 +51,7 @@ footer img {
 width:500px;  
 position:relative;
 left:1000px;  
-bottom:130px;
+top:-100px;
 }
 
 h2 {
